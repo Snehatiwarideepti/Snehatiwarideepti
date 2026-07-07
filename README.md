@@ -20,9 +20,16 @@ Email Me 👉 ✉️ **snehatiwarideepti3413@gmail.com** For Collaboration/Proje
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Snehatiwarideepti&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=Snehatiwarideepti&theme=radical&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Snehatiwarideepti&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Snehatiwarideepti&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Snehatiwarideepti&theme=radical&hide_border=true)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Snehatiwarideepti&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
