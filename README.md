@@ -20,6 +20,7 @@ Email Me 👉 ✉️ **snehatiwarideepti3413@gmail.com** For Collaboration/Proje
 </div>
 
 # 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Snehatiwarideepti&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.shion.dev/api?username=Snehatiwarideepti&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Snehatiwarideepti&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Snehatiwarideepti&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
