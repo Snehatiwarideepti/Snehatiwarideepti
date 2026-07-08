@@ -29,7 +29,7 @@
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
 
@@ -63,7 +63,7 @@
 </p>
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 ### 🔹 Phishing Website Detection
 Machine Learning model to detect phishing websites using URL and webpage features.
@@ -76,7 +76,7 @@ A high-performance multithreading library designed to efficiently manage and sch
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Snehatiwarideepti&show_icons=true&theme=radical&count_private=true" />
@@ -92,15 +92,13 @@ A high-performance multithreading library designed to efficiently manage and sch
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" />
 </p>
 
 ---
 
-## ✍️ Random Dev Quote
+<h2 align="center">✍️ Random Dev Quote</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
