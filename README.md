@@ -55,11 +55,11 @@
 ### 🔹 Phishing Website Detection
 Machine Learning model to detect phishing websites using URL and webpage features.
 
-### 🔹 Geo-Grow
-Agricultural intelligence platform providing crop recommendations and analytics.
-
 ### 🔹 Java Swing To-Do List
 Desktop task management application built with Java Swing.
+
+### 🔹 Scalable Thread Management Library
+A high-performance multithreading library designed to efficiently manage and schedule concurrent tasks with scalability and resource optimization in mind.
 
 ---
 
@@ -86,6 +86,12 @@ Desktop task management application built with Java Swing.
 </p>
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehatiwarideepti&theme=react-dark&hide_border=true" />
+</p>
 
 ## ✍️ Random Dev Quote
 
