@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Sneha+Tiwari&center=true&width=700&height=60&color=A855F7&size=35">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hello+World">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sneha Tiwari</h1>
