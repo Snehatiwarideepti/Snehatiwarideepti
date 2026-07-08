@@ -65,6 +65,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 </p>
+
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
