@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3500&pause=1500&color=FF69B4&center=true&vCenter=true&width=800&height=50&lines=Hi+I'm+Sneha+Tiwari" />
-</p>>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3500&pause=1500&color=FF69B4&center=true&vCenter=true&width=800&height=35&lines=Hi+I'm+Sneha+Tiwari" />
 </p>
 <h3 align="center">Data Science Enthusiast | Machine Learning Explorer | Problem Solver</h3>
 
