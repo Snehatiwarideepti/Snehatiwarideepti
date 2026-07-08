@@ -19,7 +19,7 @@
 
 ---
 
-## 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
 - 🎓 B.Tech CSE Student
 - 📊 Interested in Data Science & Machine Learning
@@ -30,8 +30,6 @@
 ---
 
 ## 💻 Tech Stack
-
-# 💻 Tech Stack:
 
 <p align="center">
 
