@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=3000&pause=1200&color=00FFFF&center=true&vCenter=true&width=900&height=90&lines=Hi+👋,+I'm+Sneha+Tiwari" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=3000&pause=1200&color=00FFFF&center=true&vCenter=true&width=900&height=90&lines=Hi+I'm+Sneha+Tiwari" />
 </p>
 
 <h3 align="center">Data Science Enthusiast | Machine Learning Explorer | Problem Solver</h3>
