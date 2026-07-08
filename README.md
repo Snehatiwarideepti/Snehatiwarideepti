@@ -2,6 +2,16 @@
 
 <h3 align="center">Data Science Enthusiast | Machine Learning Explorer | Problem Solver</h3>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sneha+Tiwari" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Data Science Enthusiast | Machine Learning Explorer | Problem Solver</h3>
+
+<h1 align="center">Hi 👋, I'm Sneha Tiwari</h1>
+
+<h3 align="center">Data Science Enthusiast | Machine Learning Explorer | Problem Solver</h3>
+
 <p align="center">
   <a href="https://linkedin.com/in/snehatiwari05">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
