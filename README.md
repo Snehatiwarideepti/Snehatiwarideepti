@@ -27,7 +27,7 @@
 
 - 🎓 B.Tech CSE Student
 - 📊 Interested in Data Science & Machine Learning
-- 💻 Strong in C++, Java, Python
+- 💻 Strong in C++, Python
 - 🌱 Currently learning Deep Learning & Big Data Technologies
 - 🚀 Building impactful projects and preparing for placements
 
